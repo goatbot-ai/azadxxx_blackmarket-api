@@ -26,5 +26,7 @@
   "dog": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/dog.js",
   "fox": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/fox.js",
   "duck": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/duck.js",
-  "catbox": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/catbox.js"
+  "catbox": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/catbox.js",
+  "ytstalk": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/ytstalk.js",
+  "pending": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/pending.js"
 }
