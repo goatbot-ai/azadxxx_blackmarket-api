@@ -179,6 +179,48 @@
     "author": "Saimx69x",
     "update": "2025-11-03",
     "status": "on"
-  }
+  },
+  {
+    "cmd": "groupinfo",
+    "author": "Saimx69x",
+    "update": "2025-11-04",
+    "status": "on"
+  },   
+  {
+    "cmd": "kiss",
+    "author": "Saimx69x",
+    "update": "2025-11-04",
+    "status": "on"
+  },
+  {
+    "cmd": "kicked",
+    "author": "Saimx69x",
+    "update": "2025-11-04",
+    "status": "on"
+  },
+  {
+    "cmd": "vip",
+    "author": "Saimx69x",
+    "update": "2025-11-04",
+    "status": "on"
+  },
+  {
+    "cmd": "viponly",
+    "author": "Saimx69x",
+    "update": "2025-11-04",
+    "status": "on"
+  },
+  {
+    "cmd": "developer",
+    "author": "Saimx69x",
+    "update": "2025-11-04",
+    "status": "on"
+  },
+  {
+    "cmd": "selflisten",
+    "author": "Saimx69x",
+    "update": "2025-11-04",
+    "status": "on"
+  },
   ]
 }
