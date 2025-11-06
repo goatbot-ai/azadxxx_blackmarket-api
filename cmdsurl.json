@@ -35,5 +35,11 @@
   "vip": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/vip.js",
   "viponly": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/viponly.js",
   "developer": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/developer.js",
-  "selflisten": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/selflisten.js"
+  "selflisten": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/selflisten.js",
+  "gray": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/gray.js",
+  "blur": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/blur.js",
+  "narutoquiz": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/narutoquiz.js",
+  "narutovideo": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/narutovideo.js",
+  "aotquiz": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/aotquiz.js",
+  "aotvideo": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/aotvideo.js"
 }
