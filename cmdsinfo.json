@@ -221,6 +221,42 @@
     "author": "Saimx69x",
     "update": "2025-11-04",
     "status": "on"
+  },
+  {
+    "cmd": "gray",
+    "author": "Saimx69x",
+    "update": "2025-11-06",
+    "status": "on"
+  },
+  {
+    "cmd": "blur",
+    "author": "Saimx69x",
+    "update": "2025-11-06",
+    "status": "on"
+  },
+  {
+    "cmd": "narutoquiz",
+    "author": "Saimx69x",
+    "update": "2025-11-06",
+    "status": "on"
+  },
+  {
+    "cmd": "narutovideo",
+    "author": "Saimx69x",
+    "update": "2025-11-06",
+    "status": "on"
+  },
+  {
+    "cmd": "aotquiz",
+    "author": "Saimx69x",
+    "update": "2025-11-06",
+    "status": "on"
+  },
+  {
+    "cmd": "aotvideo",
+    "author": "Saimx69x",
+    "update": "2025-11-06",
+    "status": "on"
   }
   ]
 }
