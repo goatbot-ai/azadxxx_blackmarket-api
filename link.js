@@ -18,5 +18,5 @@
   { "boys": ["https://files.catbox.moe/jk1is7.jpg"], "girls": ["https://files.catbox.moe/hbcwuo.jpg"] },
   { "boys": ["https://files.catbox.moe/n26i5m.jpg"], "girls": ["https://files.catbox.moe/40tza7.jpg"] },
   { "boys": ["https://files.catbox.moe/j2l5p4.jpg"], "girls": ["https://files.catbox.moe/500nxy.jpg"] },
-  { "boys": [""], "girls": [""] }
+  { "boys": ["https://files.catbox.moe/hmu0q3.jpg"], "girls": ["https://files.catbox.moe/c7pg6e.jpg"] }
   ]
